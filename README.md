@@ -1,4 +1,4 @@
-# Erkab - A student centric ride sharing website.
+# Durbar - A student centric ride sharing website.
 
 ### Developed by Sumit Sen ([@SumitSenBD](http://www.github.com/SumitSenBD)) 
 
