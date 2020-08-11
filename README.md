@@ -1,8 +1,8 @@
 # Erkab - A student centric ride sharing website.
 
-### Developed by Hesham Saleh ([@etchsaleh](http://www.github.com/etchsaleh)) and Omar Khaled ([@omarkhaledabdo](http://www.github.com/omarkhaledabdo))
+### Developed by Sumit Sen ([@SumitSenBD](http://www.github.com/SumitSenBD)) 
 
-**Erkab** is a ride sharing website designed specifically for college students. 
+**Durbar** is a ride sharing website designed specifically for students. 
 The solution initially stemmed from the inadequate number of parking spaces available within campus and the aim to reduce traffic congestion within the area.
 
 <p align="center">
@@ -19,6 +19,6 @@ The solution initially stemmed from the inadequate number of parking spaces avai
 
 **Technologies used:** JavaScript, Node.js, Express.js, jQuery, MongoDB, HTML, CSS, Bootstrap, Maps API, Twilio API.
 
-### To try out **Erkab**'s `alpha` version, click [**here**](https://erkab.herokuapp.com).
+### To try out **Durbar**'s `alpha` version, click [**here**](https://durbarltd.herokuapp.com).
 
 
